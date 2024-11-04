@@ -4,5 +4,5 @@ In this part of the documentation, you will find all the information about the c
 
 ## Table of content
 
-- [Game class](./project/codeDocumentation/client/client.md)
-- [Client class](./project/codeDocumentation/client/game.md)
+- [Game class](./project/codeDocumentation/client/game.md)
+- [Client class](./project/codeDocumentation/client/client.md)
