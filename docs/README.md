@@ -16,3 +16,4 @@ This is what we were told to reproduce, but with some twists: we had to make it 
 Here is what we've manage to do for this project:
 
 <img src="_media/ourRtype.png" style="width:auto; height:auto;" alt="Cover Image">
+<img src="_media/ourRtype2.png" style="width:auto; height:auto;" alt="Cover Image">

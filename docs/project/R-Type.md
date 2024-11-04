@@ -64,8 +64,3 @@ To run the client, you can use the following command :
 ```
 - **ip** : The ip of the server (by default localhost)
 - **port** : The port on which the server is listening (by default 4242)
-
-
-<a href="https://github.com/Corent1P">
-<img src="https://github.com/Corent1P.png" width="60px;"/>
-</a>
