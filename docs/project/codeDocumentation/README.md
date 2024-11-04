@@ -4,7 +4,7 @@ In this part of the documentation, you will find all the information about the c
 
 ## Table of content
 
-- [Server documentation](./project/codeDocumentation/server)
-- [Client documentation](./project/codeDocumentation/client)
-- [Protocol handler](./project/codeDocumentation/protocol)
-- [ECS](./project/codeDocumentation/ecs)
+- [Server documentation](./project/codeDocumentation/server/)
+- [Client documentation](./project/codeDocumentation/client/)
+- [Protocol handler](./project/codeDocumentation/protocol/)
+- [ECS](./project/codeDocumentation/ecs/)
