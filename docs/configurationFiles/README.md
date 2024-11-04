@@ -1,4 +1,4 @@
-# Configyration files
+# Configuration files
 
 In this part of the documentation, you will find all the information about how to add things in our project.
 
