@@ -1,6 +1,4 @@
-![logo](_media/Bot.png)
-
-# docsify <small>3.5</small>
+<img src="_media/logo.jpeg" style="width:400px; height:auto;" alt="Cover Image">
 
 > R-Type
 
