@@ -10,3 +10,7 @@ The protocol handler is used to encode and decode messages sent between the clie
 
 - [Encoder class](./project/codeDocumentation/protocol/encoder)
 - [Decoder class](./project/codeDocumentation/protocol/decoder)
+
+---
+
+<img src="_media/Encoder-Decoder.drawio.svg" style="width:auto; height:auto;" alt="Cover Image">
