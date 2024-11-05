@@ -2,10 +2,10 @@
 
 To set up and build this project, make sure to install the following dependencies:
 
-- **vcpkg** - [vcpkg installation guide](https://example.com/vcpkg-install-guide)
-- **ninja** - [ninja installation guide](https://example.com/ninja-install-guide)
-- **cmake** - [cmake installation guide](https://example.com/cmake-install-guide)
-- **Visual Studio** (for Windows users) - [Visual Studio installation guide](https://example.com/visual-studio-install-guide)
+- **vcpkg** - [vcpkg installation guide](https://learn.microsoft.com/en-us/vcpkg/get_started/overview)
+- **ninja** - [ninja installation guide](https://ninja-build.org/)
+- **cmake** - [cmake installation guide](https://cmake.org/download/)
+- **Visual Studio** (for Windows users) - [Visual Studio installation guide](https://visualstudio.microsoft.com/en/downloads/)
 
 Each of these tools is essential for the development and build process. Follow the links to ensure each dependency is installed correctly.
 
